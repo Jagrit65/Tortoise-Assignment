@@ -1,0 +1,2 @@
+export const SET_BOTTOM_COUNT = "SET_BOTTOM_COUNT";
+export const SET_IMAGE_LIST = 'SET_IMAGE_LIST'
